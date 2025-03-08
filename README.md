@@ -6,6 +6,7 @@ A repository for SR latch circuits, simulations, and implementations.
 The **SR Latch** (Set-Reset Latch) is a fundamental sequential circuit in digital electronics used for storing binary information.
 
 ## Circuit Diagram
+![SR Latch Truth Table](SR_TT.png)
 ![SR Latch](SR_Latch.png)
 
 
