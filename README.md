@@ -18,4 +18,6 @@ The **SR Latch** (Set-Reset Latch) is a fundamental sequential circuit in digita
 | 1 | 0 |   |1 |   | 0 |
 | 1 | 1 |   |Undef||Undef |
 
+## Simulation
 
+https://wokwi.com/projects/424851854359232513
